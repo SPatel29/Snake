@@ -1,14 +1,14 @@
 # Snake
 
-I CREATED SNAKE GAME USING PYGAME. I IMPLEMENTED THE GAME WITH THE SAME BASIC RULES. 
+I created a snake game using Python's Pygame Module using traditional snake game rules.
 
-
-ADDITONAL FEATURES ADDED:
-
-  1) ABILITY TO KEEP TRACK OF HIGHSCORES AND DISPLAY ONTO SCREEN
-  2) ABILITY TO SEE ALL OF THE SCORES WHEN CLICKED ON TXT FILE
-  3) RANDOMLY ASSIGN SNAKE THEIR COLOR
-  4) SOUND EFFECTS WHENEVER SNAKE EATS SOMETHING
-  5) SOUND EFFECTS WHENEVER SNAKE DIES
-  6) BACKGROUND MUSIC
-  7) ABILITLY TO USE WASD KEYS
+Added features such as 
+  - New Snake Color every round
+  - Highscore Tracker displayed onto screen
+  - Score Tracker displayed onto screen
+  - Music
+  - Death Screen
+  - Ability to use either WASD or arrow keys to move the snake
+  - Sound effects whenever the snake eats something or dies
+  - Restart game 
+   
