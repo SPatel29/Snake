@@ -4,8 +4,8 @@ I created a snake game using Python's Pygame Module using traditional snake game
 
 Added features such as 
   - New Snake Color every round
-  - Highscore Tracker displayed onto screen
-  - Score Tracker displayed onto screen
+  - Highscore Tracker displayed onto the screen
+  - Score Tracker displayed onto the screen
   - Music
   - Death Screen
   - Ability to use either WASD or arrow keys to move the snake
