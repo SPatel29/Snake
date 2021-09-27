@@ -1,6 +1,6 @@
 # Snake
 
-I created a snake game using Python's Pygame Module using traditional snake game rules.
+I created a snake game using Python's Pygame Module
 
 Added features such as 
   - New Snake Color every round
